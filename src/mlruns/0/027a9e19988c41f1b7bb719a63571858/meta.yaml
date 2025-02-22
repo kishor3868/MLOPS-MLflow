@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOps/MLOPS-MLflow/src/mlruns/0/027a9e19988c41f1b7bb719a63571858/artifacts
+end_time: 1740213558116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 027a9e19988c41f1b7bb719a63571858
+run_name: glamorous-shark-375
+run_uuid: 027a9e19988c41f1b7bb719a63571858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740213557629
+status: 3
+tags: []
+user_id: kisho

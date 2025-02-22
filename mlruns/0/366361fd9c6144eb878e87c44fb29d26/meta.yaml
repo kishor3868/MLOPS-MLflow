@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/366361fd9c6144eb878e87c44fb29d26/artifacts
+end_time: 1740239788787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 366361fd9c6144eb878e87c44fb29d26
+run_name: worried-toad-463
+run_uuid: 366361fd9c6144eb878e87c44fb29d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740239785677
+status: 3
+tags: []
+user_id: kisho

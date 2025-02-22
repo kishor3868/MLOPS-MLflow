@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648491886084304462/c65dfb7a89cb416db42a1c12c56d34f8/artifacts
+end_time: 1740249334024
+entry_point_name: ''
+experiment_id: '648491886084304462'
+lifecycle_stage: active
+run_id: c65dfb7a89cb416db42a1c12c56d34f8
+run_name: clumsy-sheep-224
+run_uuid: c65dfb7a89cb416db42a1c12c56d34f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740249318480
+status: 3
+tags: []
+user_id: kisho

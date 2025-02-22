@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/19a051e077f947229ab423f19c643848/artifacts
+end_time: 1740238725794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19a051e077f947229ab423f19c643848
+run_name: calm-dolphin-317
+run_uuid: 19a051e077f947229ab423f19c643848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740238724713
+status: 4
+tags: []
+user_id: kisho

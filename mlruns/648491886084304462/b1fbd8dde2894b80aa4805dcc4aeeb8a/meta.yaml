@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648491886084304462/b1fbd8dde2894b80aa4805dcc4aeeb8a/artifacts
+end_time: 1740240040434
+entry_point_name: ''
+experiment_id: '648491886084304462'
+lifecycle_stage: active
+run_id: b1fbd8dde2894b80aa4805dcc4aeeb8a
+run_name: rare-owl-587
+run_uuid: b1fbd8dde2894b80aa4805dcc4aeeb8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740240039633
+status: 3
+tags: []
+user_id: kisho

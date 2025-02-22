@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/da9f3fa10a0344a59408711415a3dc6d/artifacts
+end_time: 1740236452849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da9f3fa10a0344a59408711415a3dc6d
+run_name: glamorous-shrimp-112
+run_uuid: da9f3fa10a0344a59408711415a3dc6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740236448898
+status: 3
+tags: []
+user_id: kisho

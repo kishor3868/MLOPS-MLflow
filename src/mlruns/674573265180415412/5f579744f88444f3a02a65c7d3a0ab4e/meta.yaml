@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOps/MLOPS-MLflow/src/mlruns/674573265180415412/5f579744f88444f3a02a65c7d3a0ab4e/artifacts
+end_time: 1740213479165
+entry_point_name: ''
+experiment_id: '674573265180415412'
+lifecycle_stage: active
+run_id: 5f579744f88444f3a02a65c7d3a0ab4e
+run_name: fun-tern-965
+run_uuid: 5f579744f88444f3a02a65c7d3a0ab4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740213479032
+status: 3
+tags: []
+user_id: kisho
